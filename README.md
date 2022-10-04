@@ -1,4 +1,8 @@
-# 👋 Merhaba Ben viNieL size basit bir yılan oyunu yaptım bana aittir İzinsiz Paylaşmak Yasaktır 
+## Snake (the game basic)
 
-# 🌟 Projeye Star Atarsanız Sevinirim
+MIT Lisance viNieL 
+
+##👋 Merhaba Ben viNieL size basit bir yılan oyunu yaptım bana aittir İzinsiz Paylaşmak Yasaktır 
+
+## 🌟 Projeye Star Atarsanız Sevinirim
 
