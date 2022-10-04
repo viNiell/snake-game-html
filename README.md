@@ -1,4 +1,3 @@
-## Snake (the game basic)
 
 MIT Lisance viNieL 
 
